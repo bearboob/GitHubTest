@@ -1,8 +1,8 @@
-# 如何用Git将代码上传到Github
+# 如何用Git将代码上传到GitHub
 
 ## 前言
 
-本文以windows为例教大家如何使用Git把代码上传到Github。
+本文以windows为例教大家如何使用Git把代码上传到GitHub。
 
 
 
